@@ -1,1 +1,1 @@
-<h3>This is an Amazon Clone designed using HTML & CSS</h3>
+<h3>This project is a responsive replica of the Amazon homepage, created using HTML, CSS, and Bootstrap.</h3>
